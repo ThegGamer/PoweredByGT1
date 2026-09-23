@@ -14,3 +14,10 @@ h1 {
     padding: 20px;
     text-align: center;
 }
+
+.nav-menu {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
